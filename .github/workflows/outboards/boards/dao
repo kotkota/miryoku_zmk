@@ -2,6 +2,6 @@
 # https://github.com/manna-harbour/miryoku
 
 outboard_repository=kotkota/zmk-config-kotkota
-outboard_ref=main
+outboard_ref=Dao
 outboard_from=config/boards/arm/dao
 outboard_to=boards/arm/dao
